@@ -1,0 +1,8 @@
+C:\Users\Asus\Desktop\Tecra_Training\FtpUpload\May31FtpUpload\bin\Debug\May31FtpUpload.exe.config
+C:\Users\Asus\Desktop\Tecra_Training\FtpUpload\May31FtpUpload\bin\Debug\May31FtpUpload.exe
+C:\Users\Asus\Desktop\Tecra_Training\FtpUpload\May31FtpUpload\bin\Debug\May31FtpUpload.pdb
+C:\Users\Asus\Desktop\Tecra_Training\FtpUpload\May31FtpUpload\obj\Debug\May31FtpUpload.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Tecra_Training\FtpUpload\May31FtpUpload\obj\Debug\May31FtpUpload.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\Tecra_Training\FtpUpload\May31FtpUpload\obj\Debug\May31FtpUpload.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Tecra_Training\FtpUpload\May31FtpUpload\obj\Debug\May31FtpUpload.exe
+C:\Users\Asus\Desktop\Tecra_Training\FtpUpload\May31FtpUpload\obj\Debug\May31FtpUpload.pdb
